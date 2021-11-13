@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/52433b9f-dde1-470a-b47c-2737a43719c6/resourceGroups/logic-app-example/providers/Microsoft.Web/sites/snapperfish-api",
+    "appService.deploySubpath": "."
+}
